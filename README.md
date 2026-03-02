@@ -18,13 +18,14 @@
 - 🦞 **[clawctl](https://github.com/xuy/clawctl)** - CLI tooling
 - 🧠 **[agent-managers](https://github.com/xuy/agent-managers)** - Managing agent workflows
 - 🌐 **[humanos](https://github.com/xuy/humanos)** - My new OS
+- 📂 **[vibefs](https://github.com/getaifs/vibefs)** - Isolated Git workspaces for parallel AI agents
 - 📖 **[learn](https://github.com/xuy/learn)** - Continuous learning
 
 ## Open Source Highlights
 
 - 🔢 **[pyipopt](https://github.com/xuy/pyipopt)** - Python connector to IPOPT optimization solver (210+ stars)
 - 🎨 **[google-astyle](https://github.com/xuy/google-astyle)** - C++ source code formatter for Google C++ Style (60+ stars)
-- 🌍 **[langextract-rs](https://github.com/xuy/langextract-rs)** - Language extraction in Rust (59+ stars)
+- 🌍 **[langextract-rs](https://github.com/xuy/langextract-rs)** - Rust port of Google's Lang Extract (59+ stars)
 - 🧪 **[grokking](https://github.com/xuy/grokking)** - Exploring transformer grokking
 - 📐 **[planning_roamer](https://github.com/xuy/planning_roamer)** - The Roamer Planner with new algorithms
 - ✍️ **[libai](https://github.com/xuy/libai)** - 李白藏头诗
