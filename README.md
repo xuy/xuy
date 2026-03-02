@@ -13,13 +13,10 @@
 
 ## Current Focus
 
-- 🤖 **[agents](https://github.com/xuy/agents)** - Playing with various AI agents
-- 📚 **[docs-for-agents](https://github.com/xuy/docs-for-agents)** - Nuff said
-- 🦞 **[clawctl](https://github.com/xuy/clawctl)** - CLI tooling
-- 🧠 **[agent-managers](https://github.com/xuy/agent-managers)** - Managing agent workflows
+- 📚 **[docs-for-agents](https://github.com/xuy/docs-for-agents)** - Software as docs as opposed to code
+- 🦞 **[clawctl](https://github.com/xuy/clawctl)** - CLI tools to spawn and manage all kinds of claws
 - 🌐 **[humanos](https://github.com/xuy/humanos)** - My new OS
 - 📂 **[vibefs](https://github.com/getaifs/vibefs)** - Isolated Git workspaces for parallel AI agents
-- 📖 **[learn](https://github.com/xuy/learn)** - Continuous learning
 
 ## Open Source Highlights
 
